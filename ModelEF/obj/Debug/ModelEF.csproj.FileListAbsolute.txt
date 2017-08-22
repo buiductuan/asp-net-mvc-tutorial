@@ -1,0 +1,10 @@
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\ModelEF.dll.config
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\ModelEF.dll
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\ModelEF.pdb
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\EntityFramework.dll
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\EntityFramework.xml
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\obj\Debug\ModelEF.csprojResolveAssemblyReference.cache
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\obj\Debug\ModelEF.dll
+H:\workspace\ASP.NET MVC\HACK_MVC_BOOKSTORE_EF\ModelEF\obj\Debug\ModelEF.pdb
